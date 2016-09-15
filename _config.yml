@@ -1,0 +1,7 @@
+host: go.evanpurkhiser.com
+github: github.com/EvanPurkhiser
+
+defaults:
+  -
+    scope:  { path: ""}
+    values: { layout: "import" }
